@@ -31,6 +31,12 @@ query.paginate(page, limit,function(err, docs,pagination) {
   //}
 });
 ```
+
+
+## TODO
+  Test
+  Examples
+  
 ## License
 
 The MIT License
