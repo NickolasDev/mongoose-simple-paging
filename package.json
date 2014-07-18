@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-simple-paging",
+  "version": "0.0.1",
+  "description": "A Mongoose paginatation plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickolasDev/mongoose-simple-paging.git"
+  },
+  "keywords": [
+    "mongoose",
+    "pagination",
+    "paginate"
+  ],
+  "author": "Nickolas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NickolasDev/mongoose-simple-paging/issues"
+  },
+  "homepage": "https://github.com/NickolasDev/mongoose-simple-paging"
+}

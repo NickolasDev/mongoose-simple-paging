@@ -3,3 +3,4 @@ node_modules/
 .DS_Store
 .nodemonignore
 .idea
+npm-debug.log
