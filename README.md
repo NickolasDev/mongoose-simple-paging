@@ -1,14 +1,19 @@
-# Mongoose pagination
+# mongoose-simple-paging
 
-A [Mongoose](https://github.com/LearnBoost/mongoose) paginatation plugin
+[![NPM version](https://badge.fury.io/js/mongoose-simple-paging.svg)](http://badge.fury.io/js/mongoose-simple-paging)
+
+## Install
+
+```sh
+$ npm install mongoose-simple-paging
+```
 
 ## Example
 
-```javascript
+```js
 require('mongoose-simple-paging');
 
 var page = req.query.page;
-
 var query = MyModel.find();
 
 query.paginate(page, limit,function(err, docs,pagination) {
@@ -32,16 +37,9 @@ query.paginate(page, limit,function(err, docs,pagination) {
 });
 ```
 
-
 ## TODO
-  Test
-  Examples
-  
+Test
+
 ## License
 
-The MIT License
-
-
-
-
-
+The MIT License (MIT)
