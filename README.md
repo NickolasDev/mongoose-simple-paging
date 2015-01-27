@@ -1,6 +1,7 @@
-# mongoose-simple-paging
+# Mongoose Simple Paging
 
 [![NPM version](https://badge.fury.io/js/mongoose-simple-paging.svg)](http://badge.fury.io/js/mongoose-simple-paging)
+[![Dependency Status](https://david-dm.org/nickolasdev/mongoose-simple-paging.svg)](https://david-dm.org/nickolasdev/mongoose-simple-paging)
 
 ## Install
 
