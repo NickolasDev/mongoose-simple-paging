@@ -1,6 +1,6 @@
 {
   "name": "mongoose-simple-paging",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Mongoose pagination plugin",
   "main": "index.js",
   "scripts": {
